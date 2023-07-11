@@ -367,7 +367,7 @@ max-width: 900px;
   align-items: center;
   flex: auto;
   position:relative;
-  margin-right: 60px;
+
 }
 .shopnow-banner{
     background: url(https://dangflowershop.com/cdn/shop/files/Inaugural_Flowers_18.png?v=1665753755&width=1500);
@@ -385,7 +385,7 @@ max-width: 900px;
     line-height: 30px;;
     margin-bottom: 20px;
     flex: auto;
-    margin-left: 490px;
+    margin-left: 470px;
     flex-direction: column;
     width: 50%;
     
@@ -398,12 +398,12 @@ max-width: 900px;
     padding-top: 200px;
     padding-bottom: 20px;
     color: #ffffff;
-    margin-left: 500px;
+    margin-left: 480px;
 
 }
 
 .bt-banner{
-    margin-left: 650px;
+    margin-left: 610px;
     flex: auto;
     flex-direction: column;
 }
