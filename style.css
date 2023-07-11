@@ -22,7 +22,7 @@ body {
 .header {
     background: rgba(229, 84, 115, 0.10);
     width: 100%;
-    height: 650px;
+    height: 600px;
 
 }
 
@@ -42,7 +42,7 @@ body {
 
 .header .header-pic {
     width: 420px;
-    height: 540px;
+    height: 560px;
 }
 
 .head-line {
@@ -101,6 +101,7 @@ body {
 .features {
     background: #ffffff;
     margin-top: 130px;
+    margin-bottom: 130px;
 }
 
 .features-box {
@@ -183,6 +184,34 @@ body {
     margin: 28px 78px 0px 30px;
 
 }
+
+
+/* Extra section
+
+.delivery{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-between;
+    height: 230px;
+    
+    
+}
+.delivery-man{
+    margin-top: 55px;
+    margin-left: 150px;
+
+}
+.delivery-man-text{
+   padding-right: 100px;
+}
+.img1{
+    margin-left: 90px;
+}
+.fresh-flower{
+    margin-bottom: 65px;
+
+} */
 
 /* hot deals section start */
 
@@ -332,10 +361,17 @@ body {
     padding-top: 100px;
 }
 .footer-description{
-  color: #ffffff;
+ 
   width: 530px;
   text-align: center;
-  margin-left: 400px;
+  margin-left: 410px;
+  color: #757575;
+  text-align: center;
+  font-size: 15px;
+  justify-content: space-between;
+  line-height: 30px;
+  margin-bottom: 30px;
+
 }
 .flower{
     color: #E55473;
