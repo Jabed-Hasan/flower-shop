@@ -41,15 +41,15 @@ body {
 }
 
 .header .header-pic {
-    width: 500px;
-    height: 610px;
+    width: 420px;
+    height: 540px;
 }
 
 .head-line {
-    font-size: 65px;
+    font-size: 50px;
     color: #000000;
     display: flex;
-    width: 700px;
+    width: 500px;
     flex-direction: column;
     margin-bottom: 20px;
 
@@ -57,9 +57,9 @@ body {
 
 .head-description {
     color: rgba(39, 39, 39, 0.60);
-    width: 634px;
+    width: 450px;
     flex-direction: column;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 400;
     line-height: 30px;
     margin-bottom: 20px;
@@ -91,6 +91,11 @@ body {
     margin-bottom: 30px;
 
 
+}
+.feature-description{
+    width: 430px;
+    margin-left: 360px;
+    text-align: center;
 }
 
 .features {
@@ -242,26 +247,108 @@ body {
 
 }
 
-.insta-boxs{
+.insta-boxs {
     display: flex;
+    justify-content: space-between;
+
+}
+
+.insta-box1 {
+    width: 250px;
+    height: 300px;
+
+}
+
+.insta-box2 {
+    width: 250px;
+    height: 300px;
+}
+
+.insta-box3 {
+    width: 250px;
+    height: 300px;
+}
+
+.insta-box4 {
+    width: 250px;
+    height: 300px;
+
+}
+
+.instagram {
+    margin-bottom: 130px;
+}
+
+/* Subscribe section start */
+
+.Subscribe {
+
+    margin-bottom: 130px;
+}
+
+.contact input[type="email"] {
+    display: block;
+    margin-left: 180px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 500px;
+
+}
+
+.contact {
+    align-items: center;
+    display: flex;
+
     justify-content: space-around;
 }
-.insta-box1{
-    width: 250px;
-    height: 300px;
+
+.Get-the-deal {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
-.insta-box2{
-    width: 250px;
-    height: 300px;
+
+.Subscribe {
+    background-image: url(./images/Rectangle\ 9.png);
+    border-radius: 8px;
 }
-.insta-box3{
-    width: 250px;
-    height: 300px;
+
+.bt-subscribe {
+    margin-right: 190px;
 }
-.insta-box4{
-    width: 250px;
-    height: 300px;
+
+
+
+
+/* footer section added */
+
+.footer {
+    background: #111010;
+    height: 320px;
+    width: 100%;
+    padding-top: 100px;
 }
-.instagram{
-    margin-bottom: 130px;
+.footer-description{
+  color: #ffffff;
+  width: 530px;
+  text-align: center;
+  margin-left: 400px;
+}
+.flower{
+    color: #E55473;
+}
+.shop{
+    color: #FFF;
+}
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
