@@ -229,7 +229,7 @@ body {
     display: flex;
     margin-bottom: 130px;
     margin-top: 130px;
-
+    
 
 }
 
@@ -248,7 +248,7 @@ body {
     line-height: normal;
     padding-bottom: 10px;
     margin-left: 20px;
-
+    margin: auto;
 }
 
 .hot-deal-description {
@@ -259,10 +259,12 @@ body {
     font-weight: 400;
     line-height: 30px;
     padding-bottom: 20px;
+    margin: auto;
 }
 
 .bt {
-    margin-left: 150px;
+    margin-left: 140px;
+    flex: auto;
 
 }
 
@@ -367,18 +369,20 @@ body {
     height: 320px;
     width: 100%;
     padding-top: 100px;
+    
 }
 .footer-description{
  
   width: 530px;
 
-  margin-left: 420px;
+  margin-left: 400px;
   color: #faf7f7;
   text-align: center;
   font-size: 15px;
   justify-content: space-between;
   line-height: 30px;
   margin-bottom: 30px;
+  margin: auto;
 
 }
 .flower{
@@ -395,4 +399,6 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    padding-top: 10px;
+    
 }
