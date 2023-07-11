@@ -376,6 +376,8 @@ max-width: 900px;
     margin-bottom: 150px;
     background-repeat: no-repeat;
     background-size: cover;
+    flex: auto;
+    
 }
 .banner-text-body{
     color: #FFF;
