@@ -43,6 +43,7 @@ body {
 .header .header-pic {
     width: 420px;
     height: 560px;
+    margin-bottom: 0px;
 }
 
 .head-line {
@@ -364,7 +365,7 @@ body {
  
   width: 530px;
 
-  margin-left: 410px;
+  margin-left: 490px;
   color: #faf7f7;
   text-align: center;
   font-size: 15px;
