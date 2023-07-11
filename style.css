@@ -19,6 +19,8 @@ body {
 
 }
 
+/* header section start */
+
 .header {
     background: rgba(229, 84, 115, 0.10);
     width: 100%;
@@ -93,6 +95,9 @@ body {
 
 
 }
+
+/* features section */
+
 .feature-description{
     width: 430px;
     margin-left: 360px;
@@ -187,32 +192,33 @@ body {
 }
 
 
-/* Extra section
+/* Extra section */
 
-.delivery{
+ .delivery{
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 230px;
-    
+    padding-top: 100px;
     
 }
 .delivery-man{
-    margin-top: 55px;
-    margin-left: 150px;
-
+   align-items: center;
 }
 .delivery-man-text{
-   padding-right: 100px;
+   
 }
 .img1{
-    margin-left: 90px;
+    margin-left: 75px;
 }
-.fresh-flower{
-    margin-bottom: 65px;
+.img2{
+    margin-left: 75px;
+}
+.img3{
+    margin-left: 25px;
+}
 
-} */
 
 /* hot deals section start */
 
